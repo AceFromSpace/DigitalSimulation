@@ -1,0 +1,18 @@
+﻿  agenda.cpp
+agenda.cpp(34): warning C4018: '<': signed/unsigned mismatch
+agenda.cpp(51): warning C4018: '<': signed/unsigned mismatch
+agenda.cpp(69): warning C4018: '<': signed/unsigned mismatch
+agenda.cpp(77): warning C4018: '<': signed/unsigned mismatch
+  deviceIO.cpp
+  event.cpp
+  generators.cpp
+  planner.cpp
+  process.cpp
+  processor.cpp
+  source.cpp
+  statistics.cpp
+  Generating code
+  All 621 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project5.vcxproj -> C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\Project5\Release\Project5.exe
+  Project5.vcxproj -> C:\Users\Łukasz\Documents\Visual Studio 2015\Projects\Project5\Release\Project5.pdb (Full PDB)
